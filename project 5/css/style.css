@@ -1,0 +1,17 @@
+.one{
+width: 200px;
+height: 200px;
+background-color: aqua;
+border-left: 3px solid blueviolet;
+border-right: 3px solid blueviolet;
+border-radius: 50px;
+
+}
+.tow{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-right: 6px double black;
+    border-left: 6px double black;
+    border-radius: 50px;
+}
